@@ -634,7 +634,7 @@ a {
 .card__stars--label:hover,
 .card__stars--label:hover ~ .card__stars--label,
 .card__stars--label:checked ~ .card__stars--label:hover {
-  color: rgba(255, 204, 0, 0.925);
+  color: #fc0;
 }
 
 .card__link-reviews {
